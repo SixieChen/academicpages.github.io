@@ -12,18 +12,12 @@ redirect_from:
 Education
 ======
 * B.S. in Beijing, Tsinghua University, 2026(Expected)
-
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+  * Wushan
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Wushan
   
 Skills
 ======
